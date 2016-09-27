@@ -1,13 +1,16 @@
+<?php
 //fichero index.php
 //creado por Paco Gomez
 <html>
   <head>
       <title>ACTIVIDAD 03</title>
+</head>
+<body>
       <?php
-        echo "Aquí poner vuestro nombre;
-        echo "Aquí poner vuestro primer apellido";
-        print "Aquí poner vuestro segundo apellido";
+        echo "Marc";
+        echo "Alapont";
+        echo "Raga";
       ?>
-  </head>
-  <body>
+  </body>
 </html>
+
